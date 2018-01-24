@@ -1,6 +1,6 @@
 Hello-World
-hi human.
-hubot here!
+Hi human.
+Hubot here!
 
-add new thing.
+Add new thing.
 
